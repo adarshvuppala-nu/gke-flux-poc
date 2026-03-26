@@ -6,7 +6,7 @@ metadata:
   labels:
     app.kubernetes.io/name: test-app
 spec:
-  replicas: 1
+  replicas: 2
   revisionHistoryLimit: 5
   progressDeadlineSeconds: 120
   selector:
