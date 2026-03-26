@@ -1,0 +1,12 @@
+{
+  "name": "gcp-marketplace-poc",
+  "version": "1.0.0",
+  "description": "Simple hello world for GCP Marketplace POC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
